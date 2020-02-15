@@ -133,7 +133,7 @@ if __name__ == "__main__":
 		input("Press enter to exit...")
 		quit()
 	except:
-		print("Error writing to file")
+		print("Error: Could not write to output file")
 		input("Press enter to exit...")
 		quit()
 			
